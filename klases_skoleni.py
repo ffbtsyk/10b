@@ -2,16 +2,8 @@ print("Labdien! Lūdzu izprintē savu vārdu un uzvārdu jaunā rindā, izmantoj
 print("Mani sauc Artūrs Ausējs")
 print("Artūrs Ausējs")
 print("Elvita Petrauska")
-print("Luīze Vītoliņa")
 print("Patrīcija Špakovska")
 print("Luīze Vītoliņa")
 
 
-
-
-
-
-
-
-
-print("Martins Vikmanis")
+print("Anna Mišela Tunika")
